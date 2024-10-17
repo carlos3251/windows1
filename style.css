@@ -1,0 +1,34 @@
+body{
+text-align:center;
+background: color #36f;;
+}
+img {
+width: 1000;
+height: 600px;
+border-style:
+border: radius 400px;px;
+border-color:
+}
+p {
+font-size:'500';
+color: darkblue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+font-size:100px;
+color: mediumblue;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a {
+font-size:30px ;
+color: firebrick;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+iframe {
+border-radius:60px ;
+border-style:80;
+border-width:20px;
+boder-color:blue;
+}
+
+
