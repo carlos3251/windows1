@@ -5,9 +5,9 @@ background: color #36f;;
 img {
 width: 1000;
 height: 600px;
-border-style:
-border: radius 400px;px;
-border-color:
+border-style: dashed;
+border-radius: 400px;
+border-color: blue;
 }
 p {
 font-size:'500';
@@ -28,7 +28,7 @@ iframe {
 border-radius:60px ;
 border-style:80;
 border-width:20px;
-boder-color:blue;
+border-color:blue;
 }
 
 
